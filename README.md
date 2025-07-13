@@ -6,3 +6,4 @@ MATERIAL USED:
 - How to capture and filter HTTP/DNS/TCP traffic.
 - Detected malware beaconing in a sample PCAP.
 - Parsed PCAPs with Python (`pyshark`).
+
